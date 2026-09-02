@@ -157,7 +157,7 @@ and interesting ideas in software engineering and AI.**
 | 🧩 | **LeetCode** — PusalaSiddhartha | [Problem Solving](https://leetcode.com/u/PusalaSiddhartha/) | DSA & Algorithms |
 | 🏆 | **HackerRank** — Siddharthanani89 | [Coding Profile](https://www.hackerrank.com/profile/siddharthanani89) | Skills & Challenges |
 | 👨‍🍳 | **CodeChef** — Siddhartha894 | [Competitive Coding](https://www.codechef.com/users/siddhartha894) | Programming & Contests |
-| 📸 | **Instagram** — Pusala Siddhartha | [Follow & Connect](YOUR_INSTAGRAM_URL) | Personal & Social |
+| 📸 | **Instagram** — Pusala Siddhartha | [Follow & Connect](https://www.instagram.com/__siddhartha__nani__/) | Personal & Social |
 | ✉️ | **Email** — Siddhartha | [Let's Talk](mailto:siddharthanani89@gmail.com) | Direct Contact |
 
 
