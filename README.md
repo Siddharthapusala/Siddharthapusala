@@ -152,7 +152,7 @@ and interesting ideas in software engineering and AI.**
 | | **Platform** | **Connect** |
 |:---:|:---|:---|
 | 💼 |**LinkedIn** — Pusala Siddhartha | [Connect With Me](https://www.linkedin.com/in/pusala-siddhartha-a5b042394/) | Career & Networking |
-| 🌐 | **Portfolio** — Pusala Siddhartha | [Explore My Work](YOUR_PORTFOLIO_URL) | Projects & Skills |
+| 🌐 | **Portfolio** — Pusala Siddhartha | [Explore My Work](https://siddharthapusala.github.io/portfolio/) | Projects & Skills |
 | 💻 | **GitHub** — Siddharthapusala | [Explore My Projects](https://github.com/Siddharthapusala) | Code & Open Source |
 | 🧩 | **LeetCode** — PusalaSiddhartha | [Problem Solving](https://leetcode.com/u/PusalaSiddhartha/) | DSA & Algorithms |
 | 🏆 | **HackerRank** — Siddharthanani89 | [Coding Profile](https://www.hackerrank.com/profile/siddharthanani89) | Skills & Challenges |
